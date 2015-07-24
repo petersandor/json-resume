@@ -87,7 +87,6 @@
   "education": [{
     "institution": "Secondary Vocational School of technical engineering - Lucenec, Slovakia",
     "area": "Electrical & Computer engineering",
-    "studyType": "Bachelor",
     "startDate": "2006-09-04",
     "endDate": "2010-05-31",
     "summary": "Studied digital logic design, computer design, Boolean algebra, logic simplification, algorithms, computer organization, assembly-language programming, state machine design, electrical engineering and computer networks."
