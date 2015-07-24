@@ -7,11 +7,8 @@
     "website": "http://petersandor.name",
     "summary": "Full stack software developer, also interested in electrical engineering, assembly, C++, reverse engineering and all kinds of hackery.",
     "location": {
-      "address": "36",
-      "postalCode": "93032",
-      "city": "Blatna na Ostrove",
-      "countryCode": "SK",
-      "region": ""
+      "city": "Bratislava",
+      "countryCode": "SK"
     },
     "profiles": [{
       "network": "Twitter",
