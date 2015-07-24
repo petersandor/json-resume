@@ -16,7 +16,7 @@
     "profiles": [{
       "network": "Twitter",
       "username": "petesandor",
-      "url": ""
+      "url": "https://twitter.com/petesandor"
     }, {
       "network": "GitHub",
       "username": "petersandor",
