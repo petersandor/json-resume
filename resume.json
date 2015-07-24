@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Peter Sandor",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "peter@petersandor.name",
+    "phone": "+421 (0) 902 874 483",
+    "website": "http://petersandor.name",
+    "summary": "Full stack software developer, also interested in electrical engineering, assembly, C++, reverse engineering and all kinds of hackery.",
+    "location": {
+      "address": "36",
+      "postalCode": "93032",
+      "city": "Blatna na Ostrove",
+      "countryCode": "SK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "petesandor",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "petersandor",
+        "url": "https://github.com/petersandor"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ESET",
+      "position": "Junior Software Engineer",
+      "website": "https://eset.com",
+      "startDate": "2015-03-02",
+      "summary": "Started off implementing resource translation features in C++, then helped with updating Join ESET campaign websites. Since June working in Windows GUI team.",
+      "highlights": [
+        "Worked on ESET BotWarz web game",
+        "Created internally used web API",
+        "Implemented various features in internal utilities"
+      ],
+      "keywords": [
+        "C++",
+        "Node.js",
+        "Express",
+        "AngularJS",
+        "Jade",
+        "REST API",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Concentrix",
+      "position": "Web Developer",
+      "website": "https://www.concentrix.com/",
+      "startDate": "2014-05-01",
+      "endDate": "2015-02-28",
+      "summary": "Worked on a project in IBM Interactive Experience UK as a front-end developer, until November. Then developed some automation software and other tools for internal purposes, written mostly in C++ and JavaScript.",
+      "highlights": [
+        "Designed and developed multiple front-end components and widgets"
+      ],
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "C++",
+        "PHP"
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Web Developer",
+      "website": "http://www.ibm.com/",
+      "startDate": "2012-07-01",
+      "endDate": "2014-04-30",
+      "summary": "Mainly worked on official Samsung website and a multitude of various other projects using latest web technologies including responsive web design. During that time I have developed multiple C++ GUI applications utilizing Qt framework (crawlers, data-extraction tools, CMS form auto-submitters) to automate some repetitive workflow processes.",
+      "highlights": [
+        "Worked on-site in IBM Hursley, UK",
+        "Co-author of presentation on responsive web design and best practices"
+      ],
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "C++",
+        "Qt"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Secondary Vocational School of technical engineering - Lucenec, Slovakia",
+      "area": "Electrical & Computer engineering",
+      "studyType": "Bachelor",
+      "startDate": "2006-09-04",
+      "endDate": "2010-05-31",
+      "summary" : "Studied digital logic design, computer design, Boolean algebra, logic simplification, algorithms, computer organization, assembly-language programming, state machine design, electrical engineering and computer networks."
+    }
+  ],
+  "awards": [
+    {
+      "title": "MacGyver award for the most innovative idea (actually put to practice)",
+      "date": "2014-11-28",
+      "awarder": "Concentrix",
+      "summary": "For developing a workflow automation tool written in C++"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Node.js",
+        "Express",
+        "Jade",
+        "REST",
+        "PHP",
+        "MySQL",
+        "CGI"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "C++",
+        "Qt"
+      ]
+    },
+    {
+      "name": "Source Control",
+      "keywords": [
+        "Git",
+        "IBM Rational ClearCase"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Slovak",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hungarian",
+      "fluency": "Intermediate"
+    }
+  ]
+}
