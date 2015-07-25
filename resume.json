@@ -126,6 +126,14 @@
       "Git",
       "IBM Rational ClearCase"
     ]
+  }, {
+    "name": "Editors",
+    "keywords": [
+      "Atom",
+      "Visual Studio",
+      "Qt Creator",
+      "Notepad++"
+    ]
   }],
   "languages": [{
     "language": "Slovak",
