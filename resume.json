@@ -27,10 +27,24 @@
     }]
   },
   "work": [{
+    "company": "IBM",
+    "position": "Web developer",
+    "website": "https://www.ibm.com",
+    "startDate": "2015-09-01",
+    "summary": "Full stack developer on an e-commerce project.",
+    "keywords": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "REST APIs",
+      "JSP"
+    ]
+  },{
     "company": "ESET",
     "position": "Junior Software Engineer",
     "website": "https://eset.com",
     "startDate": "2015-03-02",
+    "endDate": "2015-08-31",
     "summary": "Started off implementing resource translation features in C++, then helped with updating Join ESET campaign websites. Since June working in Windows GUI team.",
     "highlights": [
       "Worked on ESET BotWarz web game",
