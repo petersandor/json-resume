@@ -1,0 +1,22 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "My resume in JSON format.",
+  "scripts": {
+    "test": "resume test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petersandor/json-resume.git"
+  },
+  "keywords": [
+    "json",
+    "resume"
+  ],
+  "author": "Peter Sandor <peter@petersandor.name>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petersandor/json-resume/issues"
+  },
+  "homepage": "https://github.com/petersandor/json-resume#readme"
+}
