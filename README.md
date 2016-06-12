@@ -5,5 +5,20 @@ You can use various tools such as [resume-cli](https://github.com/jsonresume/res
 
 Say no more to PDF, Photoshop or any other manual editing!
 
+## Prerequisites
+Command line tools
+### 1) Testing and validation - [resume-cli](https://github.com/jsonresume/resume-cli)
+
+```sh
+$ npm install resume-cli -g
+```
+
+### 2) Exporting to Word, HTML, PDF, LaTeX, plain text, and other arbitrary formats - [HackMyResume](https://github.com/hacksalot/HackMyResume)
+
+```sh
+$ npm install hackmyresume -g
+```
+
+
 ## About JSON resume
 JSON Resume is a community driven open source initiative to create JSON-based standard for resumes. Visit https://jsonresume.org/ for more details.
