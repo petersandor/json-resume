@@ -31,13 +31,18 @@
     "position": "Web developer",
     "website": "https://www.ibm.com",
     "startDate": "2015-09-01",
-    "summary": "Full stack developer on an e-commerce project.",
+    "summary": "Joined as a web developer to help build a new e-commerce website for Boots, UK. Working on IBM internal project (Backbone.js, Node) since April.",
     "keywords": [
       "HTML5",
       "CSS3",
       "JavaScript",
-      "REST APIs",
-      "JSP"
+      "JSP",
+      "Backbone.js",
+      "Node.js",
+      "Grunt",
+      "C3 graphs",
+      "Mustache",
+      "REST APIs"
     ]
   },{
     "company": "ESET",
