@@ -31,7 +31,11 @@
     "position": "Web developer",
     "website": "https://www.ibm.com",
     "startDate": "2015-09-01",
-    "summary": "Joined as a web developer to help build a new e-commerce website for Boots, UK. Working on IBM internal project (Backbone.js, Node) since April.",
+    "summary": "Joined as a web developer to help build a new e-commerce website for Boots, UK. Since 4/2016 worked on IBM internal projects (Backbone.js, Node.js, React, Electron).",
+    "highlights": [
+      "Dashboard development with realtime and historical data displayed in graphs and alerts",
+      "GUI desktop app development based on Electron (cross-platform framework) with React UI components."
+    ],
     "keywords": [
       "HTML5",
       "CSS3",
@@ -40,9 +44,12 @@
       "Backbone.js",
       "Node.js",
       "Grunt",
+      "Webpack",
+      "D3.js",
       "C3 graphs",
       "Mustache",
-      "REST APIs"
+      "REST APIs",
+      "GitHub"
     ]
   },{
     "company": "ESET",
@@ -123,7 +130,8 @@
       "CSS3",
       "JavaScript",
       "jQuery",
-      "AngularJS"
+      "AngularJS",
+      "React"
     ]
   }, {
     "name": "Backend",
@@ -146,6 +154,7 @@
     "name": "Source Control",
     "keywords": [
       "Git",
+      "GitHub",
       "IBM Rational ClearCase"
     ]
   }, {
@@ -153,6 +162,7 @@
     "keywords": [
       "Atom",
       "Visual Studio",
+      "VS Code",
       "Qt Creator",
       "Notepad++"
     ]
