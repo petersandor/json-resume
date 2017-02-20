@@ -42,7 +42,9 @@
       "JavaScript",
       "JSP",
       "Backbone.js",
+      "React",
       "Node.js",
+      "Electron",
       "Grunt",
       "Webpack",
       "D3.js",
@@ -130,6 +132,7 @@
       "CSS3",
       "JavaScript",
       "jQuery",
+      "Backbone.js",
       "AngularJS",
       "React"
     ]
@@ -148,7 +151,8 @@
     "name": "Other",
     "keywords": [
       "C++",
-      "Qt"
+      "Qt",
+      "Electron"
     ]
   }, {
     "name": "Source Control",
