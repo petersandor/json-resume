@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Peter Sandor",
+    "name": "Peter Šándor",
     "label": "Software Developer",
     "email": "peter@petersandor.name",
     "phone": "+421 (0) 902 874 483",
@@ -9,6 +9,10 @@
     "location": {
       "city": "Bratislava",
       "countryCode": "SK"
+    },
+    "birth": {
+      "state": "Slovakia",
+      "date": "1991"
     },
     "profiles": [{
       "network": "Twitter",
@@ -66,8 +70,8 @@
     "summary": "Started off implementing resource translation features in C++, then helped with updating Join ESET campaign websites. Since June working in Windows GUI team.",
     "highlights": [
       "Worked on ESET BotWarz web game",
-      "Created internally used web API",
-      "Implemented various features in internal utilities"
+      "Developed and managed internally used REST APIs",
+      "Implemented various features in internal CLI utilities and libraries"
     ],
     "keywords": [
       "C++",
@@ -84,9 +88,10 @@
     "website": "https://www.concentrix.com/",
     "startDate": "2014-05-01",
     "endDate": "2015-02-28",
-    "summary": "Worked on a project in IBM Interactive Experience UK as a front-end developer, until November. Then developed some automation software and other tools for internal purposes, written mostly in C++ and JavaScript.",
+    "summary": "Continued working on project in IBM Interactive Experience UK as a front-end developer, until November. Then developed some automation software and other tools for internal purposes, written mostly in C++ and JavaScript.",
     "highlights": [
-      "Designed and developed multiple front-end components and widgets"
+      "Designed and developed multiple front-end components and widgets",
+      "Experience with variety of technologies ranging from front-end to lower-level desktop app development (C++ Qt)"
     ],
     "keywords": [
       "HTML5",
@@ -104,7 +109,7 @@
     "endDate": "2014-04-30",
     "summary": "Mainly worked on official Samsung website and a multitude of various other projects using latest web technologies including responsive web design. During that time I have developed multiple C++ GUI applications utilizing Qt framework (crawlers, data-extraction tools, CMS form auto-submitters) to automate some repetitive workflow processes.",
     "highlights": [
-      "Worked on-site in IBM Hursley, UK",
+      "Started working on Waitrose Cellar e-commerce project in IBM Hursley, UK",
       "Co-author of presentation on responsive web design and best practices"
     ],
     "keywords": [
@@ -134,21 +139,21 @@
     "keywords": [
       "HTML5",
       "CSS3",
-      "JavaScript",
+      "JavaScript (ES6+)",
       "jQuery",
       "Backbone.js",
       "AngularJS",
       "Angular 2",
       "TypeScript",
-      "React"
+      "React",
+      "Redux"
     ]
   }, {
     "name": "Backend",
     "keywords": [
       "Node.js",
       "Express",
-      "Jade",
-      "REST",
+      "REST APIs",
       "PHP",
       "MySQL",
       "CGI"
